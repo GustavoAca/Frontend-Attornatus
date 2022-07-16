@@ -1,0 +1,21 @@
+.botao {
+  position: absolute;
+  left: 93%;
+  top: 85%;
+  transform: translate(-50%, -50%);
+  width: 56px;
+  height: 56px;
+
+}
+
+input:checked{
+  background-color: #6322ef;
+  border-color: #6322ef;
+  border:none;
+  
+}
+
+input:focus,
+.form-check-input{
+    box-shadow: none !important;
+}

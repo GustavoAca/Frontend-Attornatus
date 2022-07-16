@@ -1,0 +1,29 @@
+.fs-24{
+font-size: 24px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #ff4081 ;
+}
+
+.iconDentro input{
+  padding-left: 40px;
+}
+
+.iconDentro{
+  position: relative;
+}
+
+.iconDentro i{
+  position: absolute;
+  left: 3px;
+  top: 10%; /*28px*/
+  padding: 9px 8px;
+  color: #000;
+}
+
+
